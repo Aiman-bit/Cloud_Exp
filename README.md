@@ -1,4 +1,4 @@
-☁️ AWS Cloud Resume Challenge (My Beginner Journey 🚀)
+☁️ AWS Cloud Resume Challenge (My Beginner Journey 🚀) (Will be continued after AWS CCP Exam)
 
 www.aiman.test-resume.com
 
